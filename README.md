@@ -4,7 +4,7 @@
 
 ## ABOUT ME:
 
--  I took a year long part-time Full Stack Web Development course at Masai School,
+-  I took a year long, part-time Full Stack Web Development course at Masai School,
    from July 2021 to July 2022.
 
 -  Goals: Learn more programming languages,explore and learn about the stock market,
