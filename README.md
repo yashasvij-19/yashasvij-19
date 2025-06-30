@@ -1,21 +1,6 @@
 # Hello!
 # I am Yashasvi Vij, a Full Stack Web Developer.
 
-
-## ABOUT ME:
-
--  I took a year long, online, part-time, Full Stack Web Development course at Masai School.
-
--  Goals: 
-     - Learn more programming languages
-     - Explore and learn about the stock market
-     - Do competitive programming
-     - Participate in GSOC.
-
--  I enjoy learning and playing (almost all):
-   - Sports
-   - Musical Instruments
-
 ### SKILLED TO USE:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
