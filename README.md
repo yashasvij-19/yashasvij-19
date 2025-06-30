@@ -26,9 +26,6 @@
 <p>
     <a href="https://www.linkedin.com/in/yashasvi-vij-78454621b/"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/yashasvij19"><img 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
-            height="35px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="yashasvivij01@gmail.com"><img 
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVZ3gdu8qWgbiIZZdYCVszJdoIMQVIp8RF4g&usqp=CAU"
             height="35px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
