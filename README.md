@@ -1,21 +1,22 @@
-# Hi, I'm Yashasvi 👋
+# Yashasvi Vij
 
-Full Stack Developer with 1.5 years of production experience. I build fast, accessible web apps with React, Next.js, and TypeScript — and ship things end to end.
+Full Stack Engineer · React · Next.js · TypeScript · Node.js
 
-> Most of my recent work was in private repositories at **Haven** and **Shuru**. The projects below represent my personal work.
+1.5 years of production experience at early-stage startups (haven and Shuru).
+I build fast, accessible web apps and ship things end to end.
 
 ---
 
 ## 🔨 What I'm building
 
-**[FabLens](https://fablens.vercel.app)** — AI-powered fabric analyzer. Scrapes clothing product URLs and surfaces environmental impact + skin safety insights using Lamatic AI and Firecrawl.
+**[FabLens](https://fablens-13b6jz8jl-yashasvij-19s-projects.vercel.app/)** — AI-powered fabric analyzer. Scrapes clothing product URLs and surfaces environmental impact + skin safety insights using Lamatic AI and Firecrawl.
 
 ---
 
 ## 🛠 Tech stack
 
-**Frontend:** React.js · Next.js · TypeScript · Tailwind CSS · HTML5 · CSS3  
-**Backend:** Node.js · Flask · REST APIs · SendGrid · Shopify  
+**Frontend:** React.js · Next.js · TypeScript · Tailwind CSS · HTML5 · CSS3
+**Backend:** Node.js · Flask · REST APIs · SendGrid · Shopify
 **Tools:** Git · Docker · Figma · Postman · Nginx
 
 ---
@@ -24,9 +25,9 @@ Full Stack Developer with 1.5 years of production experience. I build fast, acce
 
 | Project | Stack | Live |
 |---|---|---|
-| FabLens | Next.js, Lamatic AI, Firecrawl | [fablens.vercel.app](https://fablens.vercel.app) |
-| Streaming Platform | React, Redux | [Live](https://amazonprime-video-clone.vercel.app) |
-| Dictionary App | React, REST APIs | [Live](https://frabjous-creponne-951603.netlify.app) |
+| FabLens | Next.js, Lamatic AI, Firecrawl | (https://fablens-13b6jz8jl-yashasvij-19s-projects.vercel.app/) |
+| Streaming Platform | React, Redux | (https://prime-video-clone-react-project-1-wjb7fm1j7f0e-wgp6-7m0lwrj03.vercel.app/) |
+| Dictionary App | React, REST APIs | (https://fascinating-pasca-3de556.netlify.app/) |
 
 ---
 
