@@ -1,41 +1,36 @@
-# Hello!
-# I am Yashasvi Vij, a Full Stack Web Developer.
+# Hi, I'm Yashasvi 👋
 
-### SKILLED TO USE:
+Full Stack Developer with 1.5 years of production experience. I build fast, accessible web apps with React, Next.js, and TypeScript — and ship things end to end.
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Express.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
+> Most of my recent work was in private repositories at **Haven** and **Shuru**. The projects below represent my personal work.
 
-<br />
-<br />
+---
 
-## My GitHub Statistics:
+## 🔨 What I'm building
 
-<p> 
- <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=yashasvij-19&theme=react&show_icons=true&include_all_commits=true" /></p>
-<br />
+**[FabLens](https://fablens.vercel.app)** — AI-powered fabric analyzer. Scrapes clothing product URLs and surfaces environmental impact + skin safety insights using Lamatic AI and Firecrawl.
 
-## Contact Information:
+---
 
-<p>
-    <a href="https://www.linkedin.com/in/yashasvi-vij-78454621b/"><img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="yashasvivij01@gmail.com"><img 
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVZ3gdu8qWgbiIZZdYCVszJdoIMQVIp8RF4g&usqp=CAU"
-            height="35px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    
-</p>
+## 🛠 Tech stack
 
+**Frontend:** React.js · Next.js · TypeScript · Tailwind CSS · HTML5 · CSS3  
+**Backend:** Node.js · Flask · REST APIs · SendGrid · Shopify  
+**Tools:** Git · Docker · Figma · Postman · Nginx
 
+---
 
+## 📌 Featured projects
 
+| Project | Stack | Live |
+|---|---|---|
+| FabLens | Next.js, Lamatic AI, Firecrawl | [fablens.vercel.app](https://fablens.vercel.app) |
+| Streaming Platform | React, Redux | [Live](https://amazonprime-video-clone.vercel.app) |
+| Dictionary App | React, REST APIs | [Live](https://frabjous-creponne-951603.netlify.app) |
 
+---
 
+## 📫 Reach me
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashasvi-vij-78454621b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yashasvivij01@gmail.com)
